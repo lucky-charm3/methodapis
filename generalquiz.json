@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "question": "What is the capital of Mongolia?",
+    "answer": "Ulaanbaatar",
+    "difficulty": "hard",
+    "choices": ["Ulaanbaatar", "Astana", "Bishkek", "Dushanbe"]
+  },
+  {
+    "id": 2,
+    "question": "Which planet is known as the Red Planet?",
+    "answer": "Mars",
+    "difficulty": "easy",
+    "choices": ["Mars", "Venus", "Jupiter", "Saturn"]
+  },
+  {
+    "id": 3,
+    "question": "How many elements are in the periodic table?",
+    "answer": "118",
+    "difficulty": "medium",
+    "choices": ["118", "92", "150", "206"]
+  },
+  {
+    "id": 4,
+    "question": "Which country gifted the Statue of Liberty to the USA?",
+    "answer": "France",
+    "difficulty": "medium",
+    "choices": ["France", "Germany", "Italy", "Spain"]
+  },
+  {
+    "id": 5,
+    "question": "Who painted the 'Girl with a Pearl Earring'?",
+    "answer": "Johannes Vermeer",
+    "difficulty": "hard",
+    "choices": ["Johannes Vermeer", "Vincent van Gogh", "Rembrandt", "Claude Monet"]
+  },
+  {
+    "id": 6,
+    "question": "What is the name of the world's largest ocean?",
+    "answer": "Pacific Ocean",
+    "difficulty": "medium",
+    "choices": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"]
+  },
+  {
+    "id": 7,
+    "question": "What do bees produce?",
+    "answer": "Honey",
+    "difficulty": "easy",
+    "choices": ["Honey", "Milk", "Wax", "Silk"]
+  },
+  {
+    "id": 8,
+    "question": "Who was the first woman to win a Nobel Prize?",
+    "answer": "Marie Curie",
+    "difficulty": "hard",
+    "choices": ["Marie Curie", "Rosalind Franklin", "Florence Nightingale", "Mother Teresa"]
+  },
+  {
+    "id": 9,
+    "question": "What currency is used in the USA?",
+    "answer": "Dollar",
+    "difficulty": "easy",
+    "choices": ["Dollar", "Euro", "Pound", "Yen"]
+  },
+  {
+    "id": 10,
+    "question": "What is the square root of 1024?",
+    "answer": "32",
+    "difficulty": "hard",
+    "choices": ["32", "24", "16", "48"]
+  },
+  {
+    "id": 11,
+    "question": "How many days are there in a week?",
+    "answer": "7",
+    "difficulty": "easy",
+    "choices": ["7", "5", "10", "12"]
+  },
+  {
+    "id": 12,
+    "question": "What year did World War II end?",
+    "answer": "1945",
+    "difficulty": "medium",
+    "choices": ["1945", "1939", "1918", "1950"]
+  },
+  {
+    "id": 13,
+    "question": "Which element has the chemical symbol 'W'?",
+    "answer": "Tungsten",
+    "difficulty": "hard",
+    "choices": ["Tungsten", "Titanium", "Tin", "Tantalum"]
+  },
+  {
+    "id": 14,
+    "question": "Which continent is known as the 'Dark Continent'?",
+    "answer": "Africa",
+    "difficulty": "medium",
+    "choices": ["Africa", "Asia", "South America", "Antarctica"]
+  },
+  {
+    "id": 15,
+    "question": "Which famous scientist developed the theory of relativity?",
+    "answer": "Albert Einstein",
+    "difficulty": "medium",
+    "choices": ["Albert Einstein", "Isaac Newton", "Stephen Hawking", "Galileo Galilei"]
+  },
+  {
+    "id": 16,
+    "question": "What gas do plants breathe in?",
+    "answer": "Carbon dioxide",
+    "difficulty": "easy",
+    "choices": ["Carbon dioxide", "Oxygen", "Nitrogen", "Hydrogen"]
+  },
+  {
+    "id": 17,
+    "question": "What is the smallest prime number greater than 100?",
+    "answer": "101",
+    "difficulty": "hard",
+    "choices": ["101", "103", "107", "109"]
+  },
+  {
+    "id": 18,
+    "question": "Which animal is known as 'man's best friend'?",
+    "answer": "Dog",
+    "difficulty": "easy",
+    "choices": ["Dog", "Cat", "Horse", "Rabbit"]
+  },
+  {
+    "id": 19,
+    "question": "Which country is the origin of the Olympic Games?",
+    "answer": "Greece",
+    "difficulty": "medium",
+    "choices": ["Greece", "Italy", "Egypt", "China"]
+  },
+  {
+    "id": 20,
+    "question": "Who discovered penicillin?",
+    "answer": "Alexander Fleming",
+    "difficulty": "hard",
+    "choices": ["Alexander Fleming", "Louis Pasteur", "Marie Curie", "Robert Koch"]
+  },
+  {
+    "id": 21,
+    "question": "How many legs does a spider have?",
+    "answer": "8",
+    "difficulty": "easy",
+    "choices": ["8", "6", "10", "12"]
+  },
+  {
+    "id": 22,
+    "question": "Who wrote the play 'Romeo and Juliet'?",
+    "answer": "William Shakespeare",
+    "difficulty": "medium",
+    "choices": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Mark Twain"]
+  },
+  {
+    "id": 23,
+    "question": "Which city hosted the first modern Olympics?",
+    "answer": "Athens",
+    "difficulty": "hard",
+    "choices": ["Athens", "Rome", "Paris", "London"]
+  },
+  {
+    "id": 24,
+    "question": "What is the opposite of hot?",
+    "answer": "Cold",
+    "difficulty": "easy",
+    "choices": ["Cold", "Warm", "Cool", "Freezing"]
+  },
+  {
+    "id": 25,
+    "question": "What color is the sky on a clear day?",
+    "answer": "Blue",
+    "difficulty": "easy",
+    "choices": ["Blue", "Red", "Green", "Yellow"]
+  },
+  {
+    "id": 26,
+    "question": "What is the capital city of France?",
+    "answer": "Paris",
+    "difficulty": "easy",
+    "choices": ["Paris", "Berlin", "Madrid", "Rome"]
+  },
+  {
+    "id": 27,
+    "question": "Which organ in the body is responsible for pumping blood?",
+    "answer": "Heart",
+    "difficulty": "medium",
+    "choices": ["Heart", "Liver", "Lungs", "Brain"]
+  },
+  {
+    "id": 28,
+    "question": "In which year was the United Nations founded?",
+    "answer": "1945",
+    "difficulty": "hard",
+    "choices": ["1945", "1919", "1955", "1939"]
+  },
+  {
+    "id": 29,
+    "question": "What’s the currency of South Korea?",
+    "answer": "Won",
+    "difficulty": "hard",
+    "choices": ["Won", "Yen", "Yuan", "Ringgit"]
+  },
+  {
+    "id": 30,
+    "question": "What is the longest river in the world?",
+    "answer": "Nile",
+    "difficulty": "medium",
+    "choices": ["Nile", "Amazon", "Yangtze", "Mississippi"]
+  }
+]
