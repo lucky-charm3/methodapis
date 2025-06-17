@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "question": "Which country won the FIFA World Cup in 2018?",
+    "answer": "France",
+    "difficulty": "easy",
+    "choices": ["France", "Brazil", "Germany", "Spain"]
+  },
+  {
+    "id": 2,
+    "question": "In which sport is the term 'slam dunk' used?",
+    "answer": "Basketball",
+    "difficulty": "easy",
+    "choices": ["Basketball", "Tennis", "Soccer", "Golf"]
+  },
+  {
+    "id": 3,
+    "question": "How many players are on a standard soccer team?",
+    "answer": "11",
+    "difficulty": "easy",
+    "choices": ["11", "9", "7", "13"]
+  },
+  {
+    "id": 4,
+    "question": "Which athlete is known as 'The Flash' in sprinting?",
+    "answer": "Usain Bolt",
+    "difficulty": "easy",
+    "choices": ["Usain Bolt", "Carl Lewis", "Tyson Gay", "Justin Gatlin"]
+  },
+  {
+    "id": 5,
+    "question": "What is the duration of a standard NBA quarter?",
+    "answer": "12 minutes",
+    "difficulty": "easy",
+    "choices": ["12 minutes", "10 minutes", "15 minutes", "20 minutes"]
+  },
+  {
+    "id": 6,
+    "question": "Which country hosted the 2016 Summer Olympics?",
+    "answer": "Brazil",
+    "difficulty": "easy",
+    "choices": ["Brazil", "China", "USA", "Russia"]
+  },
+  {
+    "id": 7,
+    "question": "In tennis, what is a zero score called?",
+    "answer": "Love",
+    "difficulty": "easy",
+    "choices": ["Love", "Nil", "Zero", "Blank"]
+  },
+  {
+    "id": 8,
+    "question": "Which sport uses the term 'home run'?",
+    "answer": "Baseball",
+    "difficulty": "easy",
+    "choices": ["Baseball", "Cricket", "Hockey", "Rugby"]
+  },
+  {
+    "id": 9,
+    "question": "Who holds the record for most Grand Slam titles in tennis?",
+    "answer": "Margaret Court",
+    "difficulty": "easy",
+    "choices": ["Margaret Court", "Serena Williams", "Steffi Graf", "Roger Federer"]
+  },
+  {
+    "id": 10,
+    "question": "What color is the jersey of the Tour de France leader?",
+    "answer": "Yellow",
+    "difficulty": "easy",
+    "choices": ["Yellow", "Green", "Red", "Blue"]
+  },
+  {
+    "id": 11,
+    "question": "Which boxer was nicknamed 'The Greatest'?",
+    "answer": "Muhammad Ali",
+    "difficulty": "medium",
+    "choices": ["Muhammad Ali", "Mike Tyson", "Floyd Mayweather", "Sugar Ray Leonard"]
+  },
+  {
+    "id": 12,
+    "question": "In which year did Michael Jordan retire from the NBA for the final time?",
+    "answer": "2003",
+    "difficulty": "medium",
+    "choices": ["2003", "1998", "2001", "1995"]
+  },
+  {
+    "id": 13,
+    "question": "Which country has won the most Rugby World Cups?",
+    "answer": "New Zealand",
+    "difficulty": "medium",
+    "choices": ["New Zealand", "South Africa", "Australia", "England"]
+  },
+  {
+    "id": 14,
+    "question": "Who is the all-time leading scorer in NBA history?",
+    "answer": "Kareem Abdul-Jabbar",
+    "difficulty": "medium",
+    "choices": ["Kareem Abdul-Jabbar", "LeBron James", "Karl Malone", "Kobe Bryant"]
+  },
+  {
+    "id": 15,
+    "question": "Which golfer has won the most Masters Tournaments?",
+    "answer": "Jack Nicklaus",
+    "difficulty": "medium",
+    "choices": ["Jack Nicklaus", "Tiger Woods", "Arnold Palmer", "Phil Mickelson"]
+  },
+  {
+    "id": 16,
+    "question": "What is the maximum break possible in snooker?",
+    "answer": "147",
+    "difficulty": "medium",
+    "choices": ["147", "155", "134", "180"]
+  },
+  {
+    "id": 17,
+    "question": "Which country won the first-ever Cricket World Cup in 1975?",
+    "answer": "West Indies",
+    "difficulty": "medium",
+    "choices": ["West Indies", "Australia", "England", "India"]
+  },
+  {
+    "id": 18,
+    "question": "In which sport would you perform a 'scorpion kick'?",
+    "answer": "Soccer",
+    "difficulty": "medium",
+    "choices": ["Soccer", "Gymnastics", "Martial Arts", "Diving"]
+  },
+  {
+    "id": 19,
+    "question": "Who is the only F1 driver to win 7 World Championships?",
+    "answer": "Lewis Hamilton",
+    "difficulty": "medium",
+    "choices": ["Lewis Hamilton", "Michael Schumacher", "Ayrton Senna", "Sebastian Vettel"]
+  },
+  {
+    "id": 20,
+    "question": "Which NBA team has won the most championships?",
+    "answer": "Boston Celtics",
+    "difficulty": "medium",
+    "choices": ["Boston Celtics", "Los Angeles Lakers", "Chicago Bulls", "Golden State Warriors"]
+  },
+  {
+    "id": 21,
+    "question": "Who is the only player to score in four different FIFA World Cups?",
+    "answer": "Pelé",
+    "difficulty": "hard",
+    "choices": ["Pelé", "Miroslav Klose", "Ronaldo", "Lionel Messi"]
+  },
+  {
+    "id": 22,
+    "question": "Which country invented the sport of badminton?",
+    "answer": "England",
+    "difficulty": "hard",
+    "choices": ["England", "China", "India", "Japan"]
+  },
+  {
+    "id": 23,
+    "question": "Who holds the record for the fastest 100m sprint in Olympic history?",
+    "answer": "Usain Bolt",
+    "difficulty": "hard",
+    "choices": ["Usain Bolt", "Carl Lewis", "Justin Gatlin", "Asafa Powell"]
+  },
+  {
+    "id": 24,
+    "question": "Which tennis player has the most consecutive weeks as World No. 1?",
+    "answer": "Roger Federer",
+    "difficulty": "hard",
+    "choices": ["Roger Federer", "Novak Djokovic", "Pete Sampras", "Rafael Nadal"]
+  },
+  {
+    "id": 25,
+    "question": "What is the diameter of a basketball hoop in inches?",
+    "answer": "18",
+    "difficulty": "hard",
+    "choices": ["18", "16", "20", "24"]
+  },
+  {
+    "id": 26,
+    "question": "Which boxer retired with an undefeated record of 49-0?",
+    "answer": "Rocky Marciano",
+    "difficulty": "hard",
+    "choices": ["Rocky Marciano", "Floyd Mayweather", "Muhammad Ali", "Mike Tyson"]
+  },
+  {
+    "id": 27,
+    "question": "In which year was the first Super Bowl held?",
+    "answer": "1967",
+    "difficulty": "hard",
+    "choices": ["1967", "1970", "1965", "1959"]
+  },
+  {
+    "id": 28,
+    "question": "Which country has won the most Winter Olympic medals?",
+    "answer": "Norway",
+    "difficulty": "hard",
+    "choices": ["Norway", "USA", "Germany", "Russia"]
+  },
+  {
+    "id": 29,
+    "question": "Who is the only player to win the FIFA World Cup as both player and coach?",
+    "answer": "Mário Zagallo",
+    "difficulty": "hard",
+    "choices": ["Mário Zagallo", "Franz Beckenbauer", "Didier Deschamps", "Diego Maradona"]
+  },
+  {
+    "id": 30,
+    "question": "Which cricketer has scored the most runs in Test cricket?",
+    "answer": "Sachin Tendulkar",
+    "difficulty": "hard",
+    "choices": ["Sachin Tendulkar", "Ricky Ponting", "Jacques Kallis", "Rahul Dravid"]
+  }
+]
